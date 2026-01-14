@@ -1,2 +1,2 @@
-# mc451-natalieg-03
+# mc451-journal
 Research methods
